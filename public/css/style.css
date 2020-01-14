@@ -1,7 +1,7 @@
 @charset "UTF-8";
 header {
   border: 1px solid black;
-  background: #327337;
+  background: #2e6d34;
   margin-bottom: 2%;
   color: white; }
   header #seleccionFalla {
@@ -31,7 +31,7 @@ header {
     box-shadow: 5px 5px 5px #5f5e5e;
     margin-bottom: 5%;
     position: relative;
-    background: #327337; }
+    background: #2e6d34; }
     #fichasFallas .contenedorFalla .contenedorImg {
       width: 360px;
       height: 450px; }

@@ -8,13 +8,13 @@ $menu_src:'';
 $company:  chtulhu;
 
 @if ($company == chtulhu) {
-  $header_Color:#327337;
-  $contenedorFalla_Color: #327337;
+  $header_Color:#2e6d34;
+  $contenedorFalla_Color: #2e6d34;
   $logo_src: "../img/cthulhu.jpg";
   $menu_src: "../img/hamburguesa.png";
 } @else if ($company == evilCorp) {
-  $header_Color: #bf214b;
-  $contenedorFalla_Color: #bf214b;
+  $header_Color: #c61f46;
+  $contenedorFalla_Color: #c61f46;
   $logo_src: "../img/evilcorp.png";
   $menu_src: "../img/evilcorp.png";
 }
