@@ -1,7 +1,7 @@
 @charset "UTF-8";
 header {
   border: 1px solid black;
-  background: #bf214b;
+  background: #327337;
   margin-bottom: 2%;
   color: white; }
   header #seleccionFalla {
@@ -9,14 +9,14 @@ header {
     grid-template-rows: 100px 65px; }
     header #seleccionFalla #logo {
       margin-left: 38%;
-      background-image: url("../img/evilcorp.png");
+      background-image: url("../img/cthulhu.jpg");
       background-size: contain;
       background-repeat: no-repeat; }
     header #seleccionFalla #hamburger {
       margin: 5px;
       margin-left: 44.1%;
       height: 50px;
-      background-image: url("../img/evilcorp.png");
+      background-image: url("../img/hamburguesa.png");
       background-size: contain;
       background-repeat: no-repeat; }
 
@@ -31,7 +31,7 @@ header {
     box-shadow: 5px 5px 5px #5f5e5e;
     margin-bottom: 5%;
     position: relative;
-    background: #bf214b; }
+    background: #327337; }
     #fichasFallas .contenedorFalla .contenedorImg {
       width: 360px;
       height: 450px; }
